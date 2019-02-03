@@ -1,0 +1,44 @@
+[
+    {
+        "predmet" : "Klijentske Web Tehnologije",
+        "profesor" : "dr Vladimir Cvjetković",
+        "rok" : ["Jun", "Jul"],
+        "datum" : ["28-Jun-17", "12-Jul-17"]
+    },
+    {
+        "predmet" : "Strukture podataka i algoritmi 1",
+        "profesor" : "dr Tatjana Stojanović",
+        "rok" : ["Jun", "Jul"],
+        "datum" : ["26-Jun-17", "12-Jul-17"]
+    },
+    {
+        "predmet" : "Strukture podataka i algoritmi 2",
+        "profesor" : "dr Boban Stojanović",
+        "rok" : ["Jun", "Jul"],
+        "datum" : ["20-Jun-17", "11-Jul-17"]
+    },
+    {
+        "predmet" : "Operativni sistemi 1",
+        "profesor" : "dr Miloš Ivanović",
+        "rok" : ["Jun", "Jul"],
+        "datum" : ["21-Jun-17", "06-Jul-17"]
+    },
+    {
+        "predmet" : "Računarske mreže",
+        "profesor" : "dr Miloš Ivanović",
+        "rok" : ["Jun", "Jul"],
+        "datum" : ["30-Jun-17", "14-Jul-17"]
+    },
+    {
+        "predmet" : "Engleski jezik 2",
+        "profesor" : "dr Ljiljana Pavlović",
+        "rok" : ["Jun", "Jul"],
+        "datum" : ["20-Jun-17", "20-Jul-17"]
+    },
+    {
+        "predmet" : "Bioetika",
+        "profesor" : "dr Sneža Stanić<br>dr Radmila Glišić",
+        "rok" : ["Jun", "Jul"],
+        "datum" : ["27-Jun-17", "11-Jul-17"]
+    }
+]

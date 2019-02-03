@@ -1,0 +1,103 @@
+<html>
+    <head>
+        <title>Bokunda</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="dizajn.css" rel="stylesheet" type="text/css"/>
+        <script src="js/script.js" type="text/javascript"></script>
+        <link rel="icon" type="img/ico" href="images/favicon.ico">
+        <link href="https://fonts.googleapis.com/css?family=Athiti|Courgette|Yellowtail" rel="stylesheet">
+    </head>
+    <body style="overflow-x: hidden; overflow-y: hidden;">
+        <div id="sajt">            
+                     
+            <div id="header" class="fixwidth">
+                
+                <div id="meni">
+                    <a href="javascript:void(0);" class="icon" onclick="openNav()">&#9776;</a>
+                </div>
+                
+                <div id="logo">
+                    <img class="rotated90" src="images/bokundablue.png" alt="AxeCoding logo">       
+                    
+                </div>
+                
+                <div id="social">
+                    <a href="https://www.facebook.com/bokunda/" target="_blank"><img class="rotate360" src="images/icons/fb.png" alt="facebook"></a>
+                    <a href="https://www.youtube.com/channel/UC-DAqJ0hgXrFV5w8a14m3xQ?view_as=subscriber" target="_blank"><img class="rotate360" src="images/icons/yt.png" alt="youtube"></a>
+                    <a href="https://www.instagram.com/bokunda" target="_blank"><img class="rotate360" src="images/icons/in.png" alt="facebook"></a>
+                </div>
+                
+                <div id="pretraga">
+                    <iframe src="https://duckduckgo.com/search.html?prefill=DuckDuckGo pretraga" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
+                </div>
+                
+            </div>
+            
+            <div id="vertical-menu" class="sidenav">
+                <ul>
+                    <li style="list-style-type: none; text-align: center; margin-top: 5%; font-family: 'Athiti', cursive; font-size: 25px; color: #818181;">Radio <br><br> <audio controls style="width:90px; display: block; margin: auto; margin-bottom: 6%;">
+                        <source src="http://stream.playradio.rs:8001/play.aac" type="audio/aac">
+                        <source src="http://stream.playradio.rs:8001/play.mp3" type="audio/mpeg">
+                        Pretraživač ne podržava opciju radija.
+                        </audio>            
+                    </li>
+                    <li><a href="#" class="active" onclick="generisiIframe(0)">Početna</a></li>
+                    
+                    <li class="naslovMeni">Fakultet</li>
+                    
+                    <li><a href="#" onclick="generisiIframe(2)">Raspored</a></li>
+                    <li><a href="#" onclick="generisiIframe(3)">IMI sajt</a></li>
+                    <li><a href="#" onclick="generisiIframe(4)">PMF sajt</a></li>
+                    
+                    <li class="naslovMeni">Web</li>                    
+                    
+                    <li><a href="#" onclick="generisiIframe(6)">Mozzart Sport</a></li>
+                    <li><a href="#" onclick="generisiIframe(7)">Kompjuteraš</a></li>
+                    <li><a href="#" onclick="generisiIframe(8)">Wikipedia</a></li>
+                    <li><a href="#" onclick="generisiIframe(9)">Flashscore</a></li>
+                    
+                    <li class="naslovMeni zaSkloniti">Igrice</li> 
+                    
+                    <li class="zaSkloniti"><a href="#" onclick="generisiIframe(10)">Zmijica</a></li>
+                    <li class="zaSkloniti"><a href="#" onclick="generisiIframe(11)">Minesweeper</a></li>
+                    
+                    <li class="osajticu"><a href="#" onclick="generisiIframe(12)">O sajtu</a></li>
+                    
+                    <li><a id="odjava" href="#" onclick="location.reload()">Odjavite se</a></li>
+                    <li class="naslovMeni zaSkloniti"></li> 
+                    
+                </ul>
+                
+            </div>
+            
+            <div id="mainPart">
+                
+                
+                    <div id="container">
+                        <div id="main">
+
+                            <h2 style="font-family: 'Athiti', cursive;">Dobrodošli!<br>Za pun pristup sajtu neophodno je da budete ulogovani!</h2>
+                            <br>
+                            <form id="form_id" method="post" name="myform">
+                                <label style="font-family: 'Courgette', cursive;">Korisničko ime:</label>
+                                <input type='text' name='username' id='username'/>
+                                <label style="font-family: 'Courgette', cursive;">Lozinka:</label>
+                                <input type="password" name="password" id="password"/>
+                                <input class="fensibtn" type="button" value="Login" id="submit" onclick="validate()"/>
+                            </form>
+
+                            <span style="font-family: 'Athiti', cursive;"><b class="note">Napomena: </b>Koristite sledeće login podatke.<br/><b class="valid">Korisničko ime: Bokunda<br/>Lozinka: bokunda#123</b></span>
+                        </div>
+                    </div>                
+            
+            </div>
+            
+            <div id="footer">         
+                
+                
+            </div>               
+            
+        </div>
+    </body>
+</html>

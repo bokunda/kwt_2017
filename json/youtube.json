@@ -1,0 +1,132 @@
+[
+	{
+		"naslov" : "Shakira - Loca",
+		"adresa" : "https://www.youtube.com/embed/XAhTt60W7qo",
+		"slika" : "music/shakira.png"
+	},
+	{
+		"naslov" : "Shakira - Chantaje",
+		"adresa" : "https://www.youtube.com/embed/6Mgqbai3fKo",
+		"slika" : "music/shakira.png"
+	},
+	{
+		"naslov" : "Luis Fonsi - Despacito",
+		"adresa" : "https://www.youtube.com/embed/kJQP7kiw5Fk",
+		"slika" : "music/luisfonsi.png"
+	},
+	{
+		"naslov" : "Ed Sheeran - Shape of You",
+		"adresa" : "https://www.youtube.com/embed/JGwWNGJdvx8",
+		"slika" : "music/EdSheeran.png"
+	},
+	{
+		"naslov" : "Clean Bandit - Rockabye",
+		"adresa" : "https://www.youtube.com/embed/papuvlVeZg8",
+		"slika" : "music/cleanbandit.png"
+	},
+	{
+		"naslov" : "Red Hot Chili Peppers - Dark Necessities",
+		"adresa" : "https://www.youtube.com/embed/Q0oIoR9mLwc",
+		"slika" : "music/rhcp.png"
+	},
+	{
+		"naslov" : "Red Hot Chili Peppers - Go Robot",
+		"adresa" : "https://www.youtube.com/embed/HI-8CVixZ5o",
+		"slika" : "music/rhcp.png"
+	},
+	{
+		"naslov" : "Red Hot Chili Peppers - Hump de Bump",
+		"adresa" : "https://www.youtube.com/embed/OM9uMJWtNww",
+		"slika" : "music/rhcp.png"
+	},
+	{
+		"naslov" : "Red Hot Chili Peppers - The Adventures of Rain Dance Maggie",
+		"adresa" : "https://www.youtube.com/embed/RtBbinpK5XI",
+		"slika" : "music/rhcp.png"
+	},
+	{
+		"naslov" : "AC/DC - Thunderstruck",
+		"adresa" : "https://www.youtube.com/embed/v2AC41dglnM",
+		"slika" : "music/acdc.png"
+	},
+	{
+		"naslov" : "AC/DC - Highway to Hell",
+		"adresa" : "https://www.youtube.com/embed/gEPmA3USJdI",
+		"slika" : "music/acdc.png"
+	},
+	{
+		"naslov" : "The Rolling Stones - Paint It, Black",
+		"adresa" : "https://www.youtube.com/embed/O4irXQhgMqg",
+		"slika" : "music/trs.png"
+	},
+	{
+		"naslov" : "The Rolling Stones - Satisfaction",
+		"adresa" : "https://www.youtube.com/embed/nrIPxlFzDi0",
+		"slika" : "music/trs.png"
+	},
+	{
+		"naslov" : "The Runaways - Cherry Bomb",
+		"adresa" : "https://www.youtube.com/embed/pMDn6V7ZLhE",
+		"slika" : "music/runaways.png"
+	},
+	{
+		"naslov" : "Bon Jovi - Livin' On A Prayer",
+		"adresa" : "https://www.youtube.com/embed/lDK9QqIzhwk",
+		"slika" : "music/bonjovi.png"
+	},
+	{
+		"naslov" : "Bon Jovi - It's My Life",
+		"adresa" : "https://www.youtube.com/embed/vx2u5uUu3DE",
+		"slika" : "music/bonjovi.png"
+	},
+	{
+		"naslov" : "Bon Jovi - You Give Love A Bad Name",
+		"adresa" : "https://www.youtube.com/embed/KrZHPOeOxQQ",
+		"slika" : "music/bonjovi.png"
+	},
+	{
+		"naslov" : "Scorpions - Wind Of Change",
+		"adresa" : "https://www.youtube.com/embed/n4RjJKxsamQ",
+		"slika" : "music/scorpions.png"
+	},
+	{
+		"naslov" : "Europe - The Final Countdown",
+		"adresa" : "https://www.youtube.com/embed/9jK-NcRmVcw",
+		"slika" : "music/europe.png"
+	},
+	{
+		"naslov" : "Alice Cooper - Poison",
+		"adresa" : "https://www.youtube.com/embed/Qq4j1LtCdww",
+		"slika" : "music/alice.png"
+	},
+	{
+		"naslov" : "Guns N' Roses - Patience",
+		"adresa" : "https://www.youtube.com/embed/ErvgV4P6Fzc",
+		"slika" : "music/gnr.png"
+	},
+	{
+		"naslov" : "Guns N' Roses - Sweet Child O' Mine",
+		"adresa" : "https://www.youtube.com/embed/1w7OgIMMRc4",
+		"slika" : "music/gnr.png"
+	},
+	{
+		"naslov" : "Guns N' Roses - November Rain",
+		"adresa" : "https://www.youtube.com/embed/8SbUC-UaAxE",
+		"slika" : "music/gnr.png"
+	},
+	{
+		"naslov" : "KISS - I Was Made For Loving You",
+		"adresa" : "https://www.youtube.com/embed/diKz9udywg4",
+		"slika" : "music/kiss.png"
+	},
+	{
+		"naslov" : "The Lion King - Hakuna Matata",
+		"adresa" : "https://www.youtube.com/embed/xB5ceAruYrI",
+		"slika" : "music/thelionking.png"
+	},
+	{
+		"naslov" : "The Jungle Book - Bare Necessities",
+		"adresa" : "https://www.youtube.com/embed/9ogQ0uge06o",
+		"slika" : "music/thejunglebook.png"
+	}
+]
