@@ -2,7 +2,7 @@
 This is my first HTML/JS/CSS project.
 
 ## How to start? ##
-You must open project on localhost. The simpliest way is to (rename and) copy **public_html** folder to **wamp/xamp** folder (ex. C:\wamp64\www).
+You must open project on localhost. The simpliest way is to create new folder in **wamp/xamp** folder (ex. C:\wamp64\www) and copy files.
 
 ## Screenshots:
 
